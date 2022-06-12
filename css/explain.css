@@ -1,0 +1,45 @@
+body{
+  background-size: cover;
+}
+
+#logo{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+}
+
+#introduce{
+  margin: 0;
+  position: absolute;
+  width: 400px;
+  top: 20%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+}
+
+#name{
+  position: absolute;
+  top: 50%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+}
+
+a{
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.restart{
+  margin: 0;
+  top: 96%;
+  left: 95%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: #6524FF;
+  font-weight: 700;
+  font-family: "My Font", serif;
+  font-size: 25px;
+}
